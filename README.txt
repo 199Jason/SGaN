@@ -1,1 +1,2 @@
-Here the codes for solving different kind of problems linked to spacecraft guidance and navigation course (Year 2022-2023)
+Here are some codes for solving different kinds of exercises linked to spacecraft. 
+

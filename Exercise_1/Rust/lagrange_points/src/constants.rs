@@ -1,0 +1,1 @@
+pub const MU: f64          = 3.0359*1e-6;           // System mass parameter [(m(^3))/(s^(−2))]
